@@ -1,2 +1,2 @@
 # python_implimentations
-challenges and implimentations
+challenges and implementations
