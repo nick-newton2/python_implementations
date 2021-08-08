@@ -7,4 +7,14 @@ lego.py:
     7
 
 coins.py:
-  finds...
+  finds the minimum coins needed to reach the target value. Coins can be changed (elements list)
+  
+  output:
+    22
+    1
+    2
+    4
+    1
+    2
+    4
+    0
