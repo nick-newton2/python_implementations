@@ -1,4 +1,4 @@
-Finds the occurences of a mask within a bitsream. Input gives a hex mask and a decimal number that must be converted into a bitsream
+program.py: Finds the occurences of a mask within a bitsream. Input gives a hex mask and a decimal number that must be converted into a bitsream
 
 Ex input:
   9 146
