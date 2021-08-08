@@ -30,3 +30,16 @@ Ex input:
 Ex output:
   Level 3 has the most nodes: 3
   Note, if there are multiple levels with the maximum number of nodes, then choose the level with the highest value (ie. further down the tree).
+
+tree_path.py:
+Given a target number and binary tree in BFS order (0 indicates no node), output all the paths (from root to leaf) that sum to the target.
+
+Sample Input: (series of target and trees)
+22
+5 4 8 11 0 13 4 7 2 0 0 0 0 5 1
+
+Sample Output: (target: path)
+22: 5, 4, 11, 2
+22: 5, 8, 4, 5
+
+If there is more than one path that sums to the target, output the paths in sorted order (compare the paths element by element).
