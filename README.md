@@ -1,2 +1,2 @@
-# python_implimentations
+# python_implementations
 challenges and implementations
