@@ -1,6 +1,13 @@
 cache.py:
   For each integer read, output an single integer stating how many numbers can make such that the sum of the digits is equal to n.
   (using 1, 2, 3, and 4, but 4 counts a 1)
+  
+  Ex input:
+    2
+    3
+  Ex output:
+    5
+    13
  
  table_path.py
   For each grid, output the minimum number of encountered on one line, followed by the path taken on the next (indicate paths by printing the sequence of 
